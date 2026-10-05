@@ -90,7 +90,7 @@ The application returns:
 
 **🔴 Poor · 🟡 Standard · 🟢 Good**
 
-🔗 **Live Application:** `ADD STREAMLIT LINK HERE`
+🔗 **Live Application:** https://modeldeploymentuas-cgt1.streamlit.app/
 
 ### Architecture
 
